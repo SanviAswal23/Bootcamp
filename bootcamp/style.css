@@ -1,0 +1,39 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    color:black;
+    border: 2px solid black;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.tagline{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 100px 200px 100px 100px;
+}
+img{
+    padding: 10px 0px 10px 0px;
+}
+.mainpage{
+    background-color: #faef8c;
+}
+.form{
+    margin: 10px;
+    background-color: rgb(243, 212, 171);
+    font-size: 20px;
+    padding: 10px;
+}
+form{
+    display: block;
+    padding: 10px;
+}
+form div{
+    padding:10px
+}
